@@ -1,0 +1,29 @@
+---
+title: THE LOW DOWN ON LEPTIN INJECTIONS...DO THEY HELP WITH WEIGHT LOSS?
+description: If you have ever tried to lose weight, you may have come across the use of leptin injections for this purpose. You may be wondering if it’s an effective way of shedding those extra kilograms. This article looks at the science behind leptin, and why it is not the magic bullet you are looking for (sorry to disappoint you!)
+published_at: 2016-06-17
+published: true
+slug: the-low-down-on-leptin-injections-do-they-help-with-weight-loss
+category: articles
+archive_id: 0
+---
+
+<div><p><img src="/assets/media/22/conversions/web.jpg" alt="" /></p>
+<p>Leptin became a hot topic in weight loss research after researchers found that injecting leptin into obese mice caused them to lose weight. Leptin quickly became the magic answer that everyone had been looking for&hellip;inject this hormone and you will go from overweight to ripped in no time at all!</p>
+<p>Although many people have since realised it is too good to be true (I will explain why a bit further on), perhaps even more people are still duped into buying into diets that offer regular leptin injections (note that the small print of these diets will always say something along the lines of &ldquo;needs to be taken in conjunction with a calorie restricted diet and exercise plan&rdquo;&hellip;that&rsquo;s why there is usually some weight loss!, but it&rsquo;s nothing to do with the leptin!).</p>
+<p>Firstly, let&rsquo;s examine what leptin is and what its job is:</p>
+<p>We all have our own leptin threshold, which is genetically determined and which must be maintained. &nbsp;When our leptin threshold is at the correct level, leptin tells our brain that we have enough energy available to burn it at a normal rate, eat a normal amount of food, and that we have enough energy to engage in energy-sapping processes like pregnancy or a growth spurt during puberty.</p>
+<p>When our leptin levels are higher than the threshold, leptin will tell the brain that there is an excess of energy (in the form of fat) and that the appetite and calorie intake should be supressed.</p>
+<p>So you can now see how one would think that if they inject <em>extra </em>leptin into their blood stream this will tell the brain to suppress appetite and reduce calorie intake and therefore weight loss will occur? Sounds concrete enough right?</p>
+<p>Wrong. Well, maybe if you fall into the 5 % of people who are genetically leptin deficient then yes you will lose weight with leptin injections. But not for the rest of the 95 % of us.</p>
+<p>When we diet and lose weight, your fat cells shrink. Remember that it is the fat cells that secrete leptin. So now with smaller fat cells, less leptin is being secreted. Your leptin is now below your personal threshold. This indicates to the brain that the body is in starvation mode. To maintain homeostasis, the brain then does what it needs to drive the leptin level back up: it stimulates the vagus nerve. The vagus nerve is our energy storage nerve that runs between our stomach and our brain. The stimulation of the vagus nerve increases hunger and so our appetite is stimulated. The primary goal here is to increase energy intake and store it as fat. Why? To get our leptin level back up to our personal threshold.</p>
+<p>You may at this point be thinking: hang on&hellip; if someone is overweight and is therefore secreting plenty of leptin from their fat cells, surely their brain is decreasing their appetite and their calorie intake and thereby reducing their weight? Probably not. Why? Because once we have beyond a certain amount of body fat, we become <em>leptin resistant.</em></p>
+<p>You may have heard of insulin resistance. Well, leptin resistance is very similar. What this means is that the body and brain have ceased to &ldquo;listen&rdquo; to the effects of leptin. So although leptin levels are high, the brain is no longer listening. It has become resistant to the workings of leptin. &nbsp;So as far as the brain is concerned the body is starving and so it is driving up hunger. Meanwhile, the body is in a state of obesity. An obese person suffers from brain starvation!</p>
+<p>So now that you understand that, you will understand that it makes no sense to give someone who has leptin resistance extra leptin&hellip;the brain is still not going to register it. (By the way, if you have ever tried leptin pills, you have been double-duped because leptin is a digestible protein and so if swallowed it will get digested in the stomach).</p>
+<p>So there you have it. Leptin injections are not the magic bullet you have been looking for to lose weight. However, if you are trying to lose weight, you do need to take care of that leptin resistance you are likely to be suffering from. So how do you do this?</p>
+<ul>
+<li>Reduce your insulin levels. Insulin resistance worsens leptin resistance. Speak to a dietician about how to reduce your insulin resistance.</li>
+<li>Reduce your triglyceride levels. An excess amount of triglycerides can block the pathway of leptin moving to the brain. Reduce your triglyceride levels and you will clear the pathway and your brain will be able to listen to what leptin is telling it. Speak to a dietician about how to reduce your triglyceride level.</li>
+</ul>
+<p>As you probably already know in your heart of hearts, there is no such thing as a magic injection or any similar quick fix to lose weight. If there was, why would we have the amount of overweight people that we do?</p>
+<p>Don&rsquo;t be duped but also, don&rsquo;t be disheartened. Weight loss does not have to mean following an awful boring diet. With the right guidance and advice you can lose weight in a way that means you can enjoy delicious food. Plus you are much more likely to keep the weight off!</p></div>

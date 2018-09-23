@@ -1,0 +1,16 @@
+---
+title: Complete Living Introduces Phat Girls
+description: Complete living introduces phat girls
+published_at: 2015-03-12
+published: true
+slug: complete-living-introduces-phat-girls
+category: articles
+archive_id: 112
+---
+
+<div><img src="/assets/images/articles/picA.jpg" alt=""><p class="caption"></p>Phat Girls is an exciting adventure that my sister and I have embarked on. Both of us have been long-distance runners for around 10 years now. This has given us a lot of time to experiment with almost any sports food and drink out there. Pre-Banting days Coke or Energade were our drinks of choice while on the road and food would consist of anything from sports gels or bars, potatoes, gummy sweets and, at perhaps our lowest point, a tube of condensed milk some people may remember as a “Dirkie”.<br><br>
+That was before we saw the Banting light and got ourselves adapted to running on fat. It has been over a year now and we both have significantly improved our times for 10 km’s, 21 km’s and full marathons. Now that could be, in part, due to our super-speedy training group (The Hilton Harrier BushPigs), but there is no doubt that our new eating regime has played a massive role. The other half of Phat Girls, Lauren, started to look so intimidating on the road that people began to beg her for her secrets. Well, now we are sharing them with you in the form of Phat Girl products! <br><br>
+First up is what we fondly refer to as the Phat Bomb. This product will become your best friend as it fills 2 roles: that of a bar which can be eaten before an event, and once removed from its home of the freezer and popped in your fuel belt or camel, it becomes a delicious gel (better than the one that rhymes with lu and tastes like poo). Phat Bombs are high in coconut oil, a naturally rich source of medium chain triglycerides. What does that mean for you when you are slogging away on the road? Medium chain triglycerides are readily oxidised meaning that they are an efficient source of energy.  Phat Bombs also provide your straining muscles with the protein they need to get you to the finish line. Did we mention they taste really good too? Phat Bombs come in both original and chocolate flavour.  The cost of a Phat Bomb is very comparable to any sports bar or gel on the market at R18, or R70 for a box of four. <br><br>
+A lot of Banters out there battle to find something to eat before their event. Many can’t face eating eggs so early in the morning and some find dairy upsets their stomach while out on the road. Enter the Phat Cookie.  For those that used to enjoy something like a rusk with their morning coffee, a Phat Cookie is the perfect Banting alternative.  In fact, these taste so good you won’t want to save them for only pre-event breakfasts! Because there are no preservatives in these, they do not last as long as “regular” biscuits do. For this reason, we package the raw dough which you can store in your freezer until you are ready to bake them! Get a batch of 5 baked Phat Cookies at R25 or a batch of dough (makes around 15 Phat Cookies) at R50.<br><br>
+To place an order or to chat to us, email us on phatgirlsorders@gmail.com or 072 670 3544 / 084 812 2234.<br><br>
+Keep a sharp eye on the Phat Girls Facebook page for exciting new products and news!</div>

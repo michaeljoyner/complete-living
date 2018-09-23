@@ -1,0 +1,19 @@
+---
+title: Hi, My Name Is Lauren.....
+description: Hi, my name is lauren.....
+published_at: 2013-09-19
+published: true
+slug: hi-my-name-is-lauren
+category: articles
+archive_id: 34
+---
+
+<div><img src="/assets/images/articles/rsz_dsc_0495_rs.jpg" alt=""><p class="caption"></p>Hi. My name is Lauren and I am a sugarholic.<br><br>
+I know this because I have completed an online questionnaire and it told me so. Apparently I meet all the criteria for an addiction. Firstly, the continued use despite adverse consequences. If having tears roll down your cheeks every time you step on the scale is not an adverse consequence then I don’t know what is! So yes, check next to that one.<br><br>
+Secondly the behaviour should be automatic (or outside of awareness). Have you ever tried keeping a food diary? The amount of sugar I consume without being completely aware of it could probably keep a small child hyped up for a week! I mean, everybody knows that food consumed while standing in front of the fridge, instead of sitting down and serving a portion, does not really count right? Right? No? Okay, so yes to the second criterion for addiction.  <br><br>
+Let’s  look at the third and fourth ones then. The behaviour needs to be out of control and compulsive. This addiction to sugar includes an addiction to artificial sugar. No calories, but a whole host of other health complications. At the height of my addiction, I was using about 30 sweetener tablets each day as well as the granules on some foods, and the liquid sweetener for others. In retrospect that seems a tad out of control, and considering I swore every day that I would cut down and the failed to do so, a little compulsive. <br><br>
+So there we have it- addiction.<br><br><br>
+But there is some good news in this tale of self-pity. I am in recovery! I will probably always have that side of me that just melts at the smell of fresh bread, heads straight for the pasta section of the menu, or given the choice between a starter or pudding, will ALWAYS choose pudding. I think that is just in my genetic make up. <br><br>
+But thanks to a rather clever dietician that I know (wink, wink) and a passion for running which has lead me to the works of Tim Noakes and his crusade against carbohydrates I have learnt that this addiction can be beaten and that it feels GREAT when you do. I won’t lie, it was tough to come to terms with. “But I am a runner, I NEED carbs and sugar”I often told people. Well, it turns out that is not strictly true....<br><br>
+Slowly, I have cut down on carbohydrates and cut out as much refined sugar as possible. Funnily enough, I am still able to run (a little better, dare I say?). My shape is also changing. My stomach is flatter and my waist is a little trimmer. Both are areas that I have battled with all my life, no matter what diet I tried. One of the best effects of changing my diet has been my consistent energy levels. I no longer have that dreadful afternoon slump that makes the idea of lying on the couch with coffee and rusks far, far more appealing than doing any work or, heaven forbid, putting on my running shoes and heading out the door. I no longer go to bed hungry, in the hopes of the scale being a little kinder in the morning, or wake up ravenous and reaching for that sugar- laden bowl of cereal.  <br><br>
+And just in case you think this all sounds too puritanical to bear, I must point out that I am hardly living in a state of self-denial. I regularly enjoy meals of steak, roasted vegetables and a creamy sauce, and I snack on awesome treats like biltong, macadamias and avocado pears. I do also allow myself a glass of wine in the evening (a girl has got to have some treats!), but for the most part, I have kicked sugar to the curb, and I don’t think I will look back anytime soon. I feel great!</div>

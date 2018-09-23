@@ -1,0 +1,19 @@
+---
+title: Vitamin D For Diabetes Prevention
+description: Vitamin d for diabetes prevention
+published_at: 2013-08-30
+published: true
+slug: vitamin-d-for-diabetes-prevention
+category: articles
+archive_id: 30
+---
+
+<div><img src="/assets/images/articles/diabetes_600x450_1.jpg" alt=""><p class="caption"></p>The Diabetes Prevention Programme, a study investigating various methods of diabetes prevention, followed over 2000 pre-diabetic subjects for an average period of just under 3 years. The participants blood levels were tested multiple times over the trial period. After adjusting for any other risk factors it was discovered that those with higher blood levels of Vitamin D were 28 percent less likely to progress into diabetes than those with lower Vitamin D levels.<br><br>
+This is not the only study to show promising links between Vitamin D and diabetes prevention. In a 2010 article from Diabetes Care, 608 women with diagnosed diabetes were compared to 559 women without diabetes. After accounting for all other risk factors, it was found that those with higher blood levels of Vitamin D were less likely to have developed the condition than those with the lowest levels.<br><br>
+In 2011, a systematic review published in the European Journal Of Clinical Nutrition looked at 11 randomised trials and 8 observational studies. It was concluded from these studies that a Vitamin D supplement of more than 500 IU per day was associated with a 13 percent less chance of diabetes development than those who took supplements of 200 IU or lower per day. Overall, it was found that supplementation was associated with 48 percent lower chance of developing diabetes. <br><br>
+So how exactly does vitamin D prevent diabetes in those at risk? In a study published in the American Journal Of Clinical Nutrition, researchers discovered that Vitamin D may ward off diabetes development by boosting the working of the pancreas. The pancreas is the organ responsible for insulin production. In diabetics insulin production is either low or non-existent. Overweight subjects with pre-diabetes were split into 2 groups: one group received a daily Vitamin D supplement and one group received a placebo. Within the group receiving the supplement, the subjects pancreatic function improved by 26 percent, while the group receiving the placebo had a worsening pancreatic function by 14 percent.<br><br>
+Of course, all of the above findings do need to be confirmed by well-controlled trials, and the most beneficial dosage for this target group needs to be identified. At the moment there is a lot of debate over the right dosage for supplementation. According to various scientific bodies, the current Recommended Daily Allowance (RDA) is way too low, especially for those at risk of diabetes.<br><br>
+Probably the most accurate way to determine how much supplementation you need is to get your blood tested to check what your current levels are. If you are at risk for diabetes you should be getting blood tests done to determine your heart disease risk anyway, and your Vitamin D levels can be checked at the same time.<br><br>
+Vitamin D supplements normally come in 2 forms: Vitamin D2 (also called ergocalciferol) and Vitamin D3 (also called cholecalciferol). Vitamin D3 is the more natural form while D2 is synthetic, making D3 much easier for your body to absorb and utilise.<br><br>
+So, if you are at risk of diabetes development (if you are overweight, especially around the stomach area, inactive,older than 45 years, have a family history, high blood pressure, high cholesterol, had diabetes during a previous pregnancy or are glucose intolerance), you may want to consider taking a Vitamin D supplement. <br><br>
+It goes without saying it is also very important to get your whole diet and lifestyle under control as well by speaking to a registered dietician. To make an appointment, use the contact me tab at the top of the page.</div>

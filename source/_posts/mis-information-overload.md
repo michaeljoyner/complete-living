@@ -1,0 +1,26 @@
+---
+title: (mis)information Overload
+description: (mis)information overload
+published_at: 2013-09-12
+published: true
+slug: mis-information-overload
+category: articles
+archive_id: 33
+---
+
+<div><img src="/assets/images/articles/misinformation.jpg" alt=""><p class="caption"></p>The internet is a fabulous thing, no doubt about it. Before its invention it was a bit harder than it is now to get hold of information on a certain topic. Now we have a plethora of information literally at our fingertips, and this is not always a good thing. You may be looking for nutrition or diet information, whether it is for your own benefit or for a friend or family member. It may be for weight loss, it may be for a specific medical condition. By typing something into your search bar, you are likely to be inundated with information relating to the topic. How do you begin to separate the scientifically sound information from the highly questionable information? Which sources do you trust? Unfortunately, there are no regulations to ensure that nutrition information that reaches the public, whether it is via magazines, TV, radio or the internet, meets any standard of truth, and so you have to filter it yourself.<br><br><br>
+Let’s consider the many nutrition products available on the market. There are products for weight loss, muscle gain, energy release; you name it and someone has probably got a product for it. The fact of the matter is it is really easy to come up with a fraudulent nutrition product:<br><br>
+First you must choose a common problem that people want a quick fix to; a popular one is weight loss of course.  Next, come up with a nutritional remedy, for example a herb, and link it to some bodily process (if you are clever you will find something that won’t cause any harm). Next, come up with a catchy name for your product, and an explanation for why it works. Here is an example: “Scientists have found a herb which melts fat away! After many years of study, it has been found that this herb is absorbed from the blood directly into your fat cells, literally melting them away!” For someone who has no background knowledge on how the human body works, this could sound entirely believable. Next, you get testimonials from the “scientists” who discovered the herbs, claiming how they did it, along with a user who has never been able to lose weight despite following a strict diet for years, but has miraculously lost 50 kilograms with the product!  Last, but not least, offer a money-back guarantee for no success, sit back and watch the money roll in.<br><br>
+Look out for these red flags when next considering a nutritional product:<br><br>
+Is something being sold?<br><br>
+Does the product offer a remedy or cure for conditions which are not simply or easily solved, for example obesity, cellulite, low energy levels and ageing?<br><br>
+Does the product use words such as “miracle”, “miraculous”, “magic”, “secret”, “detoxifying”, “immune boosting” or “studies prove”?<br><br>
+Does the product use testimonials or before and after pictures?<br><br>
+Is there a money back guarantee?<br><br>
+Does it sound too good to be true?<br><br>
+Does it say “only works in conjunction with a kilojoule-controlled diet”? <br><br>
+If you answer yes to most of these, you are most likely being duped, and you very well may be wasting your money. <br><br><span class="mySubHeading">So what about information that I read on the internet and in magazines? How do I know if that is true?</span><br><br>
+The first thing is to check out where that information comes from. There are various nutrition authorities which you can rely on for sound, scientific information. These are bodies such as the World Health Organisation (WHO), Centre for Disease Control (CDC), National Institutes for Health, the American or South African Diabetes Associations, the American or South African Society for Clinical Nutrition, and many more. <br><br>
+Next, check out who conducted the research backing up the health claim being made. Nutrition research is often conducted by companies that have a stake in the results. This does not automatically mean that the results are invalid, but you should be aware that some companies may leave out results that could have negatively impacted the sale of their product.  Consider whether there may be financial motive. <br><br>
+If the article is written by an individual, look to see if their credentials are given. Obviously someone with qualifications in nutrition and health has more sway than someone with no or unrelated qualifications. Be aware of newspapers, magazines, books or other sources of information where a lot of money stands to be made from sales. Magazines and newspapers in particular are very clever in generating catchy headlines to get us to buy them. They may discuss a certain topic on one day, and then produce an article with contrasting information a few days later, depending on the public’s wants. <br><br><br>
+Be wary of false information, and keep this in mind making any decisions with regards to diet or buying any nutritional products. Remember…. if it is about nutrition, ask a dietician!</div>

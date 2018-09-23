@@ -1,0 +1,50 @@
+@tailwind preflight;
+
+.btn {
+  @apply .text-xs .uppercase .tracking-wide .text-grey-darkest .border border-grey-darkest .font-bold .text-center py-2;
+}
+
+.btn:hover {
+  @apply .text-pink-dark;
+}
+
+@tailwind utilities;
+
+.post-content {
+  p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+  }
+}
+
+.nav-contents {
+  transition: 0.3s;
+}
+
+@media screen and (max-width: 576px) {
+  .nav-contents {
+    transform: rotateX(90deg);
+    position: absolute;
+    top: 3rem;
+    left: 0;
+    width: 100%;
+    transform-origin: top left;
+    background: white;
+    z-index: 999;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+
+    a {
+      padding: 0.75rem 0;
+    }
+  }
+
+  #menu-trigger:checked + .nav-contents {
+    transform: rotateX(0deg);
+  }
+}
