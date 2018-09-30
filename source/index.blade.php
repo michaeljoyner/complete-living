@@ -12,7 +12,7 @@
 
 <div class="py-20 flex flex-col justify-center items-center">
         <h1 class="mb-8 font-serif text-very-big md:text-huge text-center">Complete<br class="block lg:hidden">Living</h1>
-        <p class="text-xl md:text-3xl py-3 border-t border-b border-pink text-center">Stephanie Botha. <br class="block md:hidden">Professional Dietician.</p>
+        <p class="text-xl md:text-3xl py-3 border-t border-b border-pink text-center">Stephanie Joyner. <br class="block md:hidden">Professional Dietician.</p>
 </div>
 <div class="px-4 md:px-12">
 <p class="mt-20 max-w-lg mx-auto text-lg md:text-2xl leading-normal font-serif">
