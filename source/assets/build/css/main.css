@@ -5948,6 +5948,10 @@ table {
   font-size: 3rem;
 }
 
+.text-very-big {
+  font-size: 4rem;
+}
+
 .text-huge {
   font-size: 8rem;
 }
@@ -11647,6 +11651,10 @@ table {
     font-size: 3rem;
   }
 
+  .sm\:text-very-big {
+    font-size: 4rem;
+  }
+
   .sm\:text-huge {
     font-size: 8rem;
   }
@@ -17303,6 +17311,10 @@ table {
 
   .md\:text-5xl {
     font-size: 3rem;
+  }
+
+  .md\:text-very-big {
+    font-size: 4rem;
   }
 
   .md\:text-huge {
@@ -22963,6 +22975,10 @@ table {
     font-size: 3rem;
   }
 
+  .lg\:text-very-big {
+    font-size: 4rem;
+  }
+
   .lg\:text-huge {
     font-size: 8rem;
   }
@@ -28619,6 +28635,10 @@ table {
 
   .xl\:text-5xl {
     font-size: 3rem;
+  }
+
+  .xl\:text-very-big {
+    font-size: 4rem;
   }
 
   .xl\:text-huge {

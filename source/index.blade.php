@@ -11,11 +11,11 @@
 @section('body')
 
 <div class="py-20 flex flex-col justify-center items-center">
-        <h1 class="mb-8 font-serif text-5xl md:text-huge text-center">Complete<br class="block lg:hidden">Living</h1>
+        <h1 class="mb-8 font-serif text-very-big md:text-huge text-center">Complete<br class="block lg:hidden">Living</h1>
         <p class="text-xl md:text-3xl py-3 border-t border-b border-pink text-center">Stephanie Botha. <br class="block md:hidden">Professional Dietician.</p>
 </div>
 <div class="px-4 md:px-12">
-<p class="mt-20 max-w-lg mx-auto text-base md:text-lg md:text-2xl leading-normal font-serif">
+<p class="mt-20 max-w-lg mx-auto text-lg md:text-2xl leading-normal font-serif">
 I am a qualified dietician with a Masters degree in Dietetics, with a passionate focus on holistic health. Nutrition is a important piece of the complex puzzle which is our health, happiness and wellness. My priority is to help patients in getting all their puzzle pieces into place. I work within a network of highly qualified and competent colleagues to refer my patients to when needed.</p>
 
 <div class="py-20">

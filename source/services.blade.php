@@ -11,7 +11,7 @@
 @section('body')
 @include('_layouts.secondary-header', ['header_text' => 'My Services'])
 
-<div class="mt-20 py-8 px-4 md:px-12">
+<div class="mt-8 md:mt-20 py-8 px-4 md:px-12">
     <h3 class="font-serif text-center text-2xl md:text-3xl">Consultations</h3>
     <p class="mt-8 max-w-lg mx-auto text-base md:text-lg leading-normal">Whether you have a specific medical condition or you just want to improve your physique, health and wellness, an individual consult is the place to start. This will involve going over your medical, family and weight history, a clinical assessment as well as a review of your lifestyle, sleeping patterns and physical activity. If necessary blood tests will be discussed and ordered. A body composition analysis will provide a baseline and allow goals to be set. Follow up’s are vital to ensure sustainability of new behaviours. These sessions are generally shorter than the initial consult and are recommended every two to four weeks, depending in the individual’s circumstances. I am also able to do Discovery Vitality assessments.</p>
     </div>
