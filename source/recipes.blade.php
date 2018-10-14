@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @include('_layouts.ogmeta', [
-        'ogImage' => '',
+        'ogImage' => $page->baseUrl . '/assets/images/sharing_image.png',
         'ogTitle' => 'Recipes | Complete Living',
         'ogDescription' => 'Food is an important part of our lives and should be enjoyed. To me, there is nothing more satisfying than sitting down to a delicious meal that I have prepared with carefully thought out ingredients.',
     ])

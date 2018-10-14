@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @include('_layouts.ogmeta', [
-        'ogImage' => '',
+        'ogImage' => $page->baseUrl . '/assets/images/sharing_image.png',
         'ogTitle' => 'Articles | Complete Living',
         'ogDescription' => 'Separate the information from the misinformation with articles and take-home information that you can easily implement in your day to day life',
     ])

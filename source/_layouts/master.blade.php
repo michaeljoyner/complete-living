@@ -24,6 +24,8 @@
   @include('_layouts.footer')
   <script src="js/main.js"></script>
 
+@include("_layouts.json-ld")
+
   <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
   <script>
     window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;

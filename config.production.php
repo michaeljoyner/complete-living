@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://completeliving.co.za',
+    'baseUrl' => 'http://happy-carson-987bf8.netlify.com',
     'production' => true,
     'collections' => [
         "posts" => [

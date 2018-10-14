@@ -2,7 +2,7 @@
 
 @section('head')
     @include('_layouts.ogmeta', [
-        'ogImage' => '',
+        'ogImage' => $page->baseUrl . '/assets/images/sharing_image.png',
         'ogTitle' => 'Services | Complete Living',
         'ogDescription' => 'I offer a range of services from general assessment, consultation and analysis to specialized athlete consultations and lifestle advice.',
     ])
@@ -14,12 +14,9 @@
 <div class="mt-8 md:mt-20 py-8 px-4 md:px-12">
     <h3 class="font-serif text-center text-2xl md:text-3xl">Consultations</h3>
     <p class="mt-8 max-w-lg mx-auto text-base md:text-lg leading-normal">Whether you have a specific medical condition or you just want to improve your physique, health and wellness, an individual consult is the place to start. This will involve going over your medical, family and weight history, a clinical assessment as well as a review of your lifestyle, sleeping patterns and physical activity. If necessary blood tests will be discussed and ordered. A body composition analysis will provide a baseline and allow goals to be set. Follow up’s are vital to ensure sustainability of new behaviours. These sessions are generally shorter than the initial consult and are recommended every two to four weeks, depending in the individual’s circumstances. I am also able to do Discovery Vitality assessments.</p>
-    </div>
-<div class="py-8 px-4 md:px-12">
-    <h3 class="font-serif text-center text-2xl md:text-3xl">Sleep Apnea Testing</h3>
-    <p class="mt-8 max-w-lg mx-auto text-base md:text-lg leading-normal">Sleep apnea can be a debilitating condition. If you suffer from excessive daytime sleepiness, irritability and mood changes, the inability to concentrate, the inability to stay alert while driving, or your partner has observed you snoring, gasping or stopping breathing while you sleep, you are likely to suffer from sleep apnea. Those with sleep apnea are more likely to suffer from obesity, high blood pressure and diabetes. If you think this is you, come and get tested as soon as possible. There is treatment available for sleep apnea and the sooner you start the sooner you will regain your life.
-    </p>
+    <p class="mt-8 max-w-lg mx-auto text-base md:text-lg leading-normal">I am also available for family consults at a reduced rates.</p>
 </div>
+
 <div class="py-8 px-4 md:px-12">
     <h3 class="font-serif text-center text-2xl md:text-3xl">Athletes</h3>
     <p class="mt-8 max-w-lg mx-auto text-base md:text-lg leading-normal">From weekend warriors to elite athletes, nutrition is a key part of training and competing. It is vital that athletes have a nutrition strategy in place to ensure they train optimally, compete at their peak and recover efficiently, all without the risk of injury or illness. Achieving a certain lean mass to body fat ratio, depending on what your sport is, can play a large role in how you perform and is largely dependent on the food you eat.

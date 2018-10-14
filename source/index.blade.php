@@ -2,9 +2,9 @@
 
 @section('head')
     @include('_layouts.ogmeta', [
-        'ogImage' => '',
+        'ogImage' => $page->baseUrl . '/assets/images/sharing_image.png',
         'ogTitle' => 'Complete Living | Stephanie Joyner',
-        'ogDescription' => 'Professional dietician with a passion for holistic health and sports science. I can help you make a positive change in your lifestyle.',
+        'ogDescription' => 'As a professional and registred dietician, my passion is helping people to become the healthiest versions of themselves by providing realistic, practical and sustainable solutions.',
     ])
 @endsection
 
@@ -38,8 +38,5 @@ I am a qualified dietician with a Masters degree in Dietetics, with a passionate
 </div>
 </div>
 </div>
-
-
-
 
 @endsection
