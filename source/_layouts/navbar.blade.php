@@ -6,7 +6,7 @@
     <nav class="block md:flex md:flex-row justify-end items-center nav-contents">
         <a class="no-underline block text-right text-grey-darkest hover:text-pink-dark mx-4" href="/services">Services</a>
         <a class="no-underline block text-right text-grey-darkest hover:text-pink-dark mx-4" href="/articles">Articles</a>
-        <a class="no-underline block text-right text-grey-darkest hover:text-pink-dark mx-4" href="/recipes">Recipies</a>
+        <a class="no-underline block text-right text-grey-darkest hover:text-pink-dark mx-4" href="/recipes">Recipes</a>
         <a class="no-underline block text-right text-grey-darkest hover:text-pink-dark mx-4" href="/contact-info">Contact & Info</a>
     </nav>
     <div class="block md:hidden mr-4 text-grey-dark menu-icon">

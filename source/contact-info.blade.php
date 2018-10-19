@@ -26,6 +26,39 @@
     </div>
     
 </div>
+
+<div class="max-w-lg mx-auto py-12 md:py-20">
+    <h3 class="font-serif text-center text-3xl">My Rates</h3>
+    <p class="mt-8 text-base md:text-lg leading-normal">If you have medical aid funds available, we are able to submit on your behalf for a R50 admin fee. You can also pay by cash/card.</p>
+    <div class="max-w-sm mx-auto mt-20">
+        <div class="flex justify-between mb-3">
+            <span class="font-serif text-lg">Service</span>
+            <p class="font-serif text-lg text-right">Rate</p>
+        </div>
+        <div class="flex justify-between mb-3">
+            <span class="mr-4">First consult</span>
+            <span class="flex-1 mr-4 border-b border-dashed hidden md:block"></span>
+            <p class="text-right">R500</p>
+        </div>
+        <div class="flex justify-between mb-3">
+            <span class="mr-4">First follow up consult</span>
+            <span class="flex-1 mr-4 border-b border-dashed hidden md:block"></span>
+            <p class="text-right">R300</p>
+        </div>
+        <div class="flex justify-between mb-3">
+            <span class="mr-4">Regular follow up consult</span>
+            <span class="flex-1 mr-4 border-b border-dashed hidden md:block"></span>
+            <p class="text-right">R220</p>
+        </div>
+        <div class="flex justify-between mb-3">
+            <span class="mr-4">Discovery Vitality Assessment</span>
+            <span class="flex-1 mr-4 border-b border-dashed hidden md:block"></span>
+            <p class="text-right">R340</p>
+        </div>
+
+    </div>
+    
+</div>
 </div>
 
 @endsection

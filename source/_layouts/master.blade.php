@@ -22,7 +22,6 @@
   @include('_layouts.navbar')
   @yield('body')
   @include('_layouts.footer')
-  <script src="js/main.js"></script>
 
 @include("_layouts.json-ld")
 

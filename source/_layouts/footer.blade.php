@@ -9,12 +9,12 @@
             </div>
             <div class="mb-4 text-center md:text-left">
                 <p>Tel: 012-3456789</p>
-                <p>123 Sesame street</p>
-                <p>Hilton</p>
+                <p>Email: <a class="no-underline hover:text-blue-dark text-black" href="mailto:stephjoyner18@gmail.com">stephjoyner18@gmail.com</a></p>
+                <p>77 Villiers Drive, Clarendon, PMB</p>
             </div>
         </div>
     </div>
     <div class="h-8 bg-blue-dark flex items-center justify-center">
-        <p class="text-white text-sm">Copyright 2018</p>
+        <p class="text-white text-sm">&copy; Complete Living {{ date('Y') }}</p>
     </div>
 </footer>
