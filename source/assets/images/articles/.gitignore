@@ -1,9 +1,0 @@
-*
-!.gitignore
-/vendor
-/node_modules
-Homestead.yaml
-.env
-/.idea
-.idea/
-.DS_Store
