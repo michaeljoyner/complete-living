@@ -4,7 +4,7 @@
     @include('_layouts.ogmeta', [
         'ogImage' => $page->baseUrl . '/assets/images/sharing_image.png',
         'ogTitle' => 'Complete Living | Stephanie Joyner',
-        'ogDescription' => 'As a professional and registred dietician, my passion is helping people to become the healthiest versions of themselves by providing realistic, practical and sustainable solutions.',
+        'ogDescription' => 'As a registred dietician, my passion is helping people to become the healthiest versions of themselves by providing realistic, practical and sustainable solutions.',
     ])
 @endsection
 
@@ -12,7 +12,7 @@
 
 <div class="py-20 flex flex-col justify-center items-center">
         <h1 class="mb-8 font-serif text-very-big md:text-huge text-center">Complete<br class="block lg:hidden">Living</h1>
-        <p class="text-xl md:text-3xl py-3 border-t border-b border-pink text-center">Stephanie Joyner. <br class="block md:hidden">Professional Dietician.</p>
+        <p class="text-xl md:text-3xl py-3 border-t border-b border-pink text-center">Stephanie Joyner. <br class="block md:hidden">Registered Dietician.</p>
 </div>
 <div class="px-4 md:px-12">
     <p class="mt-20 max-w-lg mx-auto text-lg md:text-2xl leading-normal font-serif">
