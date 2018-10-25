@@ -8,7 +8,7 @@
                 <p>Practice number: 0454524</p>
             </div>
             <div class="mb-4 text-center md:text-left">
-                <p>Tel: 082-9876554</p>
+                <p>Tel: 072 670 3544</p>
                 <p>Email: <a class="no-underline hover:text-blue-dark text-black" href="mailto:stephjoyner18@gmail.com">stephjoyner18@gmail.com</a></p>
                 <p>77 Villiers Drive, Clarendon, PMB</p>
             </div>
